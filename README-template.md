@@ -22,7 +22,7 @@ This project is a simple HTML and CSS QR code component on a web page. The main 
 ### Links
 
 - Solution URL: [Click me](https://github.com/Fidella-droid/qr_code_component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://fidella-droid.github.io/qr_code_component/)
 
 ## My process
 
