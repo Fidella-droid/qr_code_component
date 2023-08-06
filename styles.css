@@ -11,22 +11,23 @@
 /*default styles for screen sizes*/
 body{
     background-color: hsl(212, 45%, 89%);
+    width: 100%;
 }
 .white-container{
     background-color: hsl(0, 0%, 100%);
-    width: 530px;
-    height: 820px;
-    margin: 5rem auto;
+    width: 350px;
+    height: 520px;
+    margin: 3rem auto;
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-radius: 2.5em;
+    border-radius: 1.8em;
 }
 img{
-   border-radius: 2em;
-   margin: 2em; 
-   height: 500px;
-   width: 480px;
+   border-radius: 1.8em;
+   margin: 1.5em; 
+   height: 310px;
+   width: 310px;
 }
 .text{
     text-align: center;
@@ -37,16 +38,16 @@ img{
     font-weight:700;
     color:hsl(218, 44%, 22%);
     font-size: 2em; 
-    width: 14em;
-    margin: 0.2em auto 0.5em auto;
-    font-size: 3em;  
+    width: 13em;
+    margin: 0 auto 0.5em auto;
+     
 }
 #lighter-text{
     font-weight: 400;
     color:hsl(220, 15%, 55%);
     width: 20em;
     margin: 0 auto;
-    font-size: 2em;
+    font-size: 1.5em;
 }  
 
 
