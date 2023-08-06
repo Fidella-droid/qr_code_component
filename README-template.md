@@ -13,12 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+This project is a simple HTML and CSS QR code component on a web page. The main reason why I worked on this project is to practice the use of Flex and object sizing.
 ### Screenshot
 
 ![](./screenshot.jpg)
